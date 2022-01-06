@@ -1,3 +1,3 @@
-# Creates Single Sided Double Face Cards
+# Drag and drop the folder inside of the "SSDFC-main" folder into your existing Proximity template directory
 
-## Created by Haven King
+## For Proximity 0.5.4+
