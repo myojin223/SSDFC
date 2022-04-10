@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 
 <Template name="Blacked Out" author="Haven King" width="2176" height="2960"
-          proximity_version="0.5.0"
+          proximity_version="0.6.2"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:noNamespaceSchemaLocation="../../../template.xsd">
     <Options>
@@ -14,7 +14,7 @@
         <ToggleOption id="bottom_text_outline" default="false"/>
         <ToggleOption id="copyright" default="true"/>
         <ToggleOption id="flavor_text" default="true"/>
-        <ToggleOption id="flavor_bar" default="true"/>
+        <ToggleOption id="flavor_bar" default="false"/>
         <ToggleOption id="show_set_symbol" default="true"/>
         <ToggleOption id="set_symbol_watermark" default="false"/>
         <ToggleOption id="floating" default="false"/>
